@@ -1,16 +1,48 @@
-# React + Vite
+# CV - Sunshine Wilmus
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Mon CV interactif développé avec React et Tailwind CSS.
 
-Currently, two official plugins are available:
+## 🌐 Site en ligne
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Consultez mon CV en ligne : [https://skyreks00.github.io/cv-react](https://skyreks00.github.io/cv-react)
 
-## React Compiler
+## 📋 À propos
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Ce projet est mon curriculum vitae personnel, présentant :
+- Mon parcours scolaire en Technique de Transition Informatique
+- Mes compétences techniques (Python, Web, C)
+- Mes projets personnels
+- Mon expérience professionnelle
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies utilisées
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** - Framework JavaScript
+- **Vite** - Build tool
+- **Tailwind CSS** - Framework CSS
+- **Lucide React** - Bibliothèque d'icônes
+
+## 🚀 Développement local
+
+```bash
+# Installation des dépendances
+npm install
+
+# Lancer le serveur de développement
+npm run dev
+
+# Build de production
+npm run build
+
+# Déployer sur GitHub Pages
+npm run deploy
+```
+
+## 📧 Contact
+
+- Email : sunshine.wilmus.mail@gmail.com
+- Téléphone : +32 456 40 00 32
+- Localisation : Charleroi, Belgique
+
+---
+
+*Développé avec ❤️ par Sunshine Wilmus*
