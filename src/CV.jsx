@@ -8,12 +8,9 @@ const CV = () => {
       <header className="bg-gradient-to-r from-violet-600 to-indigo-600 text-white shadow-lg">
         <div className="container mx-auto px-6 py-12 md:py-16 flex flex-col md:flex-row items-center justify-between">
           <div className="text-center md:text-left space-y-4">
-            <div className="flex items-center justify-center md:justify-start gap-4 mb-4">
-              <img src="/cv-logo.svg" alt="CV Logo" className="w-16 h-16 md:w-20 md:h-20" />
-              <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight">
-                Sunshine Wilmus
-              </h1>
-            </div>
+            <h1 className="text-4xl md:text-6xl font-extrabold tracking-tight">
+              Sunshine Wilmus
+            </h1>
             <p className="text-xl md:text-2xl text-violet-100 font-medium">
               Étudiant en Informatique & Passionné d'Automatisation
             </p>
