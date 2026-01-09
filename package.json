@@ -3,11 +3,13 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://skyreks00.github.io/cv-react",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy": "vite build && gh-pages -d dist"
   },
   "dependencies": {
     "lucide-react": "^0.562.0",
@@ -24,6 +26,7 @@
     "eslint": "^9.39.1",
     "eslint-plugin-react-hooks": "^7.0.1",
     "eslint-plugin-react-refresh": "^0.4.24",
+    "gh-pages": "^6.3.0",
     "globals": "^16.5.0",
     "postcss": "^8.5.6",
     "tailwindcss": "^4.1.18",
@@ -40,6 +43,5 @@
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/skyreks00/cv-react/issues"
-  },
-  "homepage": "https://github.com/skyreks00/cv-react#readme"
+  }
 }
